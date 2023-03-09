@@ -1,4 +1,4 @@
-﻿/* 		
+/* 		
         Super Resize Me!.jsx
         Batch resize your After Effects projects.
         Inspired by "Recursive Scale Comp" by Michael Gochoco (2010)
